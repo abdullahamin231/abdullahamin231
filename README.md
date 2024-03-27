@@ -8,7 +8,7 @@ I am a first-year computer science student at FAST University, passionate about 
 - 🤖 Exploring Python and C++ through various projects
 - 💻 Building Full-Stack applications with MERN
 
-Check out my [coding portfolio!]([https://erikc-portfolio.netlify.app/](https://abdullahamin231.github.io/portfolio))
+[Check out my coding portfolio!](https://abdullahamin231.github.io/portfolio)
 
 
 ## 🌐 Connect with me:
